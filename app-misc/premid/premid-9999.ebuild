@@ -7,7 +7,7 @@ inherit eutils desktop xdg-utils
 
 DESCRIPTION="Discord Rich Presence for web services"
 HOMEPAGE="https://premid.app/"
-SRC_URI="https://github.com/${PN}/Linux/releases/download/v${PV}/${PN}.tar.gz"
+SRC_URI="https://github.com/PreMiD/Linux/releases/latest/download/premid.tar.gz"
 
 LICENSE="MPL-2.0"
 SLOT="0"
