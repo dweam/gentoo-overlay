@@ -9,7 +9,7 @@ DESCRIPTION="Discord Rich Presence for web services"
 HOMEPAGE="https://premid.app/"
 SRC_URI="https://github.com/${PN}/Linux/releases/download/v${PV}/${PN}.tar.gz"
 
-LICENSE="MPL2"
+LICENSE="MPL-2.0"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
