@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+<repo priority="50" status="unofficial">
+    <name>apriluwu</name>
+    <description>apriluwu's personal overlay</description>
+    <homepage>https://github.com/apriluwu/gentoo-overlay</homepage>
+    <owner>
+        <name>April C.</name>
+        <email>aaprilthemonth@gmail.com</email>
+    </owner>
+<source type="git">https://github.com/apriluwu/gentoo-overlay.git</source>
+</repo>
+</repositories>
