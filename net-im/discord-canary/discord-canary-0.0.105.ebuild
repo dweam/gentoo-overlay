@@ -51,7 +51,7 @@ src_install() {
 	doexe DiscordCanary
 
 	dosym $destdir/DiscordCanary /usr/bin/discord-canary
-	make_desktop_entry discord Discord \
+	make_desktop_entry discord-canary "Discord Canary" \
 		"/opt/discord-canary/discord.png" \
 		Network
 }
